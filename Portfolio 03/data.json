@@ -1,0 +1,19 @@
+{
+  "experience": [
+    {
+      "year": "2023 - Present",
+      "title": "Intern at Go Baby Go",
+      "description": "Designing and implementing adaptive vehicles for children with mobility impairments."
+    },
+    {
+      "year": "2022 - 2023",
+      "title": "Coding Educator at Lat Twae Education",
+      "description": "Taught coding and computational thinking to over 100 students in Myanmar."
+    },
+    {
+      "year": "2021 - 2022",
+      "title": "Co-officer at Thate Pan Hub",
+      "description": "Promoted STEM education and innovation in Myanmar."
+    }
+  ]
+}
